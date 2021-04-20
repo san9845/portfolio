@@ -112,8 +112,8 @@ function Home() {
 
         <div className="min-h-screen text-xl font-bold flex justify-left items-center md:flex-row flex-wrap">
           <div className="flex-none">
-            <p>WAKE UP.</p>
-            <p>KICK ASS.</p>
+            <p>EAT.</p>
+            <p>CODE.</p>
             <p className="text-gray-300">REPEAT.</p>
           </div>
 
